@@ -1,3 +1,3 @@
 # blah
 
-here is some stuffs.
+here is some things.
